@@ -25,7 +25,7 @@
 	
 		the metirial menu:
 		
-	1.	the user can load .png file to make a new metirial to the presented objects, by clicking on the "Add" button on the Metirials menu.
+		the user can load .png file to make a new metirial to the presented objects, by clicking on the "Add" button on the Metirials menu.
 
 		Background :
 
